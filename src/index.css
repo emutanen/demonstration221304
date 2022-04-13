@@ -3,12 +3,10 @@
   width: 100%;
 }
 
-#root {
-  position: absolute;
-  top: 30%;
-  left: 50%;
-}
-
 #root .main-container {
   background-color: beige;
+}
+
+.ui.secondary.button {
+  margin-bottom: 1em;
 }
